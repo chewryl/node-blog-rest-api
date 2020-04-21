@@ -27,15 +27,15 @@ REST API project which receives requests from a frontend app. The REST API for t
   `PUT`
 
 *  **Request Body**
-
+    ```
     [
       {
           "email": "test@test.com",
-          "password": "Karen",
-          "name": "Smith"
+          "password": "password",
+          "name": "Karen Smith"
       }
     ]
-
+    ```
 *  **URL Params**
 
     None
