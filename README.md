@@ -194,7 +194,7 @@ REST API project which receives requests from a frontend app. The REST API for t
   ```
  
 <a name="postpost"></a>
-**Post post**
+**Create new post**
  ----
   Allows user to create a new post that is saved to the database and retrieved though the Get Posts endpoint. 
   A post consists of a title, an image and the post content.
